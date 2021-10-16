@@ -1,0 +1,27 @@
+.modal img{
+    width:80%;
+
+}
+body{
+    background:url("");
+    color:rgb(0, 0, 0);
+}
+#main{
+    background: url("https://cdn3.vectorstock.com/i/1000x1000/08/32/seamless-doodles-background-with-coffee-vector-3430832.jpg");
+z-index:0;
+height:100%;
+/*opacity:0.5;*/
+}
+h1{
+    background-color: white; 
+    padding:10px;
+    opacity:0.8;
+    width:40%
+}
+p{
+    color:white;
+    font-size:  30px;
+    background-color: saddlebrown;
+    opacity:0.8;
+    padding:10px;
+}
